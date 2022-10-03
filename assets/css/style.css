@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto', sans-serif;;
+}
+
+.navbar, .form {
+    background: #28A745;
+}
+
+.offer {
+    color: #28A745;
+}
